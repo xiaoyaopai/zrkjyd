@@ -10,6 +10,7 @@ a{ color:#5c5c5c; text-decoration:none}
 .clear{ clear:both;font-size:0px; line-height:0px}
 .left{ float:left}
 .right{ float:right}
+
 .hidden{ overflow:hidden;}
 
 ::-webkit-scrollbar {width: 0px;height:0px;}
